@@ -142,6 +142,7 @@ Pond采用所有权模型，显示分配核权限控制管理池内存。Pond使
 
 ![](https://pic1.imgdb.cn/item/67f0cc6c0ba3d5a1d7eda1cd.png)
 Pond的VM调度（A）和QoS监控（B）算法依赖图13中两个预测模型
+
 **预测模型**
 - 预测模型的输入：
     - VM元数据：客户历史记录、VM类型、操作系统、地理位置等。
