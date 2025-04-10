@@ -1,6 +1,24 @@
 
-# Pond
+# Pond: CXL-Based Memory Pooling Systems for Cloud Platforms
+## 作者以及出版物
+### 作者
+**Huaicheng Li** - 弗吉尼亚理工大学（Virginia Tech）  
+**Daniel S. Berger** - 微软Azure（Microsoft Azure）  
+**Lisa Hsu** - 无隶属机构（Unaffiliated）  
+**Daniel Ernst** - 微软Azure（Microsoft Azure）  
+**Pantea Zardoshti** - 微软Azure（Microsoft Azure）  
+**Stanko Novakovic** - 谷歌（Google）  
+**Monish Shah** - 微软Azure（Microsoft Azure）  
+**Samir Rajadnya** - 微软Azure（Microsoft Azure）  
+**Scott Lee** - 微软（Microsoft）  
+**Ishwar Agarwal** - 英特尔（Intel）  
+**Mark D. Hill** - 威斯康星大学麦迪逊分校（University of Wisconsin-Madison）  
+**Marcus Fontoura** - 石头公司（Stone Co）  
+**Ricardo Bianchini** - 微软Azure（Microsoft Azure）  
+### 出版物
+ASPLOS ’23
 
+所有机构均位于美国（USA）。
 ## Abstract
 云服务商们即希望硬件能够满足性能要求，同时也要降低成本，其中内存就是影响性能和成本的关键因素。恰好内存池化可以提高DRAM利用率，从而降低成本。但是在云服务器上实现池化是个有挑战性的事。
 >内存池化是指将大量的内存进行池化，形成一个内存池，CPU在内存池中动态申请内存进行使用。

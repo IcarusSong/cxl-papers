@@ -1,6 +1,9 @@
-# TPP
-
-内存拓展成本-》DRAM内存技术通过构建分层内存子系统和以更低的成本/GB点添加更高的内存容量-》从延迟和带宽来看CXL是个好选择-》内存分层是是否有益呢？-》需要了解数据中心应用的行为-》观察不同应用特点-》四个观察-》设计TPP-》TPP机制-》TPP实现-》TPP效果-》未来展望
+# TPP：Transparent Page Placement for CXL-Enabled Tiered-Memory
+## 作者以及出版物
+### 作者
+Hasan Al Maruf（美国密歇根大学）、Johannes Weiner（美国Meta公司）、Chris Petersen（美国Meta公司）、Hao Wang（美国英伟达）、Niket Agarwal（美国英伟达）、Mosharaf Chowdhury（美国密歇根大学）、Abbishek Dhanotia（美国Meta公司）、Pallab Bhattacharya（美国英伟达）、Shobhit Kanaujia（美国Meta公司）、Prakash Chauhan（美国Meta公司）
+### 出版物
+ASPLOS ’23
 
 ## 内存分层出现背景
 在数据中心中，应用对内存的需求激增，由于增加DRAM带来的高额成本以及拓展内存带来的技术挑战，使得内存成为超大规模数据中心基础设置支出的重要部分，微软表示，50%的服务器总成本来自DRAM。
