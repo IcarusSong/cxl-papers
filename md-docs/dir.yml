@@ -2,6 +2,7 @@
 - README: 1
 内存池化:
 - Pond: 1
+- Direct_CXL: 2
 内存分级:
 - TPP: 1
 带宽与延迟:
