@@ -1,7 +1,12 @@
 
 # Hello bytes, bye blocks: PCIe storage meets compute express link for memory expansion
 
+## 作者以及出版物
+### 作者
+Myoungsoo Jung， **KAIST**
 
+### 出版物
+HotStorage ’22
 
 ## **1. CXL技术的兴起与块存储的缺席**
 **背景**  
