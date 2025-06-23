@@ -71,10 +71,7 @@ ExPAND（Expander-Driven CXL Prefetcher）通过三大创新突破性能瓶颈�
 ### **4. 预取及时性（Prefetch Timeliness）**  
 ExPAND的核心优化目标是通过精准的时序控制，平衡“预取过早”（缓存污染）与“预取过晚”（延迟暴露）的矛盾：  
 - **计算公式**：  
-  \[
-  T_{prefetch} = T_{prediction} - (T_{device} + N_{switch} \times T_{per\_switch})
-  \]  
-  其中，\(T_{prefetch}\)为预取的时间，\(T_{prediction}\)为预测的请求时间, \(T_{device}\)为CXL-SSD的固有延迟，\(N_{switch}\)为交换机层级数。 \(T_{per\_switch}\)为单层交换机的处理延迟。 
+<!-- ![](https://pic1.imgdb.cn/item/67fe53e388c538a9b5d1d9a1.png) -->
 - **动态调整**：在4层拓扑下，ExPAND通过延迟补偿将缓存污染率控制在5%以内。  
 
 

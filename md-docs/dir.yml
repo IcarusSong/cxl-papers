@@ -5,8 +5,11 @@
 - Direct_CXL: 2
 内存分级:
 - TPP: 1
+- NeoMem: 2
 带宽与延迟:
 - Demystifying_CXL_Memory_with_Genuine_CXL-Ready_Systems_and_Devices: 1
 CXL-SSD:
 - Hello_Bytes: 1
 - Cache_in_Hand: 2
+simulation:
+- CXL-DMsim: 1
