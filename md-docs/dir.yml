@@ -13,3 +13,5 @@ CXL-SSD:
 - Cache_in_Hand: 2
 simulation:
 - CXL-DMsim: 1
+CXL探索:
+- Enhanced_Memory_Functions: 1
