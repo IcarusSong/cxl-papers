@@ -1,0 +1,10 @@
+pages:
+  stage: deploy
+  script:
+    - mkdir -p public
+    - cp -r docs/* public/  # 复制 docs 目录下的所有文件到 public/
+  artifacts:
+    paths:
+      - public
+  only:
+    - main  # 替换成你的分支名（如 master/main）
