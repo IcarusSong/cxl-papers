@@ -3,6 +3,7 @@
 内存池化:
 - Pond: 1
 - Direct_CXL: 2
+- Against_CXL_Memory_Pooling: 3
 内存分级:
 - TPP: 1
 - NeoMem: 2
