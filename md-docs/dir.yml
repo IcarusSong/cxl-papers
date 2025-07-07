@@ -4,6 +4,7 @@
 - Pond: 1
 - Direct_CXL: 2
 - Against_CXL_Memory_Pooling: 3
+- 'Logical Memory Pools:  Flexible and Local Disaggregated Memory': 4
 内存分级:
 - TPP: 1
 - NeoMem: 2
@@ -18,3 +19,4 @@ CXL探索:
 - Enhanced_Memory_Functions: 1
 内存拓展:
 - Breaking_Barriers:Expanding_GPU_Memory_with_Sub-Two_Digit_Nanosecond_Latency_CXL_Controller: 1
+- Accelerating_Performance_of_GPU-based_Workloads_Using_CXL: 2
