@@ -5,11 +5,15 @@
 - Direct_CXL: 2
 - Against_CXL_Memory_Pooling: 3
 - 'Logical Memory Pools:  Flexible and Local Disaggregated Memory': 4
+- 'STARNUMA: Mitigating NUMA Challenges with Memory Pooling': 5
+- Performance Evaluation on CXL-enabled Hybrid  Memory Pool: 6
+- 'Memory Sharing with CXL: Hardware and Software Design Approaches': 7
 内存分级:
 - TPP: 1
 - NeoMem: 2
 带宽与延迟:
 - Demystifying_CXL_Memory_with_Genuine_CXL-Ready_Systems_and_Devices: 1
+- Systematic CXL Memory Characterization and  Performance Analysis at Scale: 2
 CXL-SSD:
 - Hello_Bytes: 1
 - Cache_in_Hand: 2
@@ -20,3 +24,5 @@ CXL探索:
 内存拓展:
 - Breaking_Barriers:Expanding_GPU_Memory_with_Sub-Two_Digit_Nanosecond_Latency_CXL_Controller: 1
 - Accelerating_Performance_of_GPU-based_Workloads_Using_CXL: 2
+Prefetch:
+- 'Polaris: Enhancing CXL-based Memory Expanders with Memory-side Prefetching': 1
